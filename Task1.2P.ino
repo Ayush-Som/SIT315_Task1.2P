@@ -12,6 +12,7 @@ void setup()
 
 void loop()
 {
+  swap();
   delay(1000);
 }
 
